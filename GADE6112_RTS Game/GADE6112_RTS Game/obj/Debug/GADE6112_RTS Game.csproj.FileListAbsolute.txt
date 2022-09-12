@@ -1,0 +1,13 @@
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\bin\Debug\GADE6112_RTS Game.exe.config
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\bin\Debug\GADE6112_RTS Game.exe
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\bin\Debug\GADE6112_RTS Game.pdb
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS Game.csprojAssemblyReference.cache
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS_Game.frmCharacterStats.resources
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS_Game.frmMain.resources
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS_Game.frmMapDebug.resources
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS_Game.frmPlayerStats.resources
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS_Game.Properties.Resources.resources
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS Game.csproj.GenerateResource.cache
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS Game.csproj.CoreCompileInputs.cache
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS Game.exe
+D:\GADE 1 POE\Task1\GADE6112_RTS Game\GADE6112_RTS Game\obj\Debug\GADE6112_RTS Game.pdb
